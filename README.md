@@ -1,6 +1,6 @@
 # midproj
 
-A new Flutter project.
+Fluuter project, home screen not done still need a lot of reworking but for adding steps and water intake is done
 
 ## Getting Started
 
